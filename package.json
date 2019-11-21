@@ -7,7 +7,6 @@
   "dependencies": {
     "@ap.cx/react-fullpage": "^0.1.10-alpha",
     "core-js": "^2.5.7",
-    "gh-pages": "^2.1.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
@@ -29,6 +28,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "gh-pages": "^2.1.1",
     "babel-preset-env": "^1.7.0"
   }
 }
