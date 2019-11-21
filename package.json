@@ -7,6 +7,7 @@
   "dependencies": {
     "@ap.cx/react-fullpage": "^0.1.10-alpha",
     "core-js": "^2.5.7",
+    "gh-pages": "^2.1.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
@@ -17,7 +18,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "link": "npm link @ap.cx/react-fullpage"
+    "link": "npm link @ap.cx/react-fullpage",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
