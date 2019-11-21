@@ -1,13 +1,13 @@
 {
-  "main.css": "/thierryc/react-fullpage-example/static/css/main.fb53121b.chunk.css",
-  "main.js": "/thierryc/react-fullpage-example/static/js/main.a4612f8d.chunk.js",
-  "main.js.map": "/thierryc/react-fullpage-example/static/js/main.a4612f8d.chunk.js.map",
-  "runtime~main.js": "/thierryc/react-fullpage-example/static/js/runtime~main.6dee5278.js",
-  "runtime~main.js.map": "/thierryc/react-fullpage-example/static/js/runtime~main.6dee5278.js.map",
-  "static/js/2.b2d4ed16.chunk.js": "/thierryc/react-fullpage-example/static/js/2.b2d4ed16.chunk.js",
-  "static/js/2.b2d4ed16.chunk.js.map": "/thierryc/react-fullpage-example/static/js/2.b2d4ed16.chunk.js.map",
-  "index.html": "/thierryc/react-fullpage-example/index.html",
-  "precache-manifest.3d4df905980ca695c29863cf4184cadd.js": "/thierryc/react-fullpage-example/precache-manifest.3d4df905980ca695c29863cf4184cadd.js",
-  "service-worker.js": "/thierryc/react-fullpage-example/service-worker.js",
-  "static/css/main.fb53121b.chunk.css.map": "/thierryc/react-fullpage-example/static/css/main.fb53121b.chunk.css.map"
+  "main.css": "/react-fullpage-example/static/css/main.fb53121b.chunk.css",
+  "main.js": "/react-fullpage-example/static/js/main.a4612f8d.chunk.js",
+  "main.js.map": "/react-fullpage-example/static/js/main.a4612f8d.chunk.js.map",
+  "runtime~main.js": "/react-fullpage-example/static/js/runtime~main.f1cdb145.js",
+  "runtime~main.js.map": "/react-fullpage-example/static/js/runtime~main.f1cdb145.js.map",
+  "static/js/2.b2d4ed16.chunk.js": "/react-fullpage-example/static/js/2.b2d4ed16.chunk.js",
+  "static/js/2.b2d4ed16.chunk.js.map": "/react-fullpage-example/static/js/2.b2d4ed16.chunk.js.map",
+  "index.html": "/react-fullpage-example/index.html",
+  "precache-manifest.23b2db645c851ad4e485f26ea2cce20a.js": "/react-fullpage-example/precache-manifest.23b2db645c851ad4e485f26ea2cce20a.js",
+  "service-worker.js": "/react-fullpage-example/service-worker.js",
+  "static/css/main.fb53121b.chunk.css.map": "/react-fullpage-example/static/css/main.fb53121b.chunk.css.map"
 }
